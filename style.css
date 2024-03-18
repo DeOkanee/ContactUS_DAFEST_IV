@@ -176,6 +176,10 @@ footer {
     width: 400px;
     height: 100px;
   }
+  footer {
+    bottom: 0;
+    padding: 15px 0; /* Ubah padding agar lebih ramping */
+  }
   .bawah {
     flex-direction: column;
     text-align: center;
@@ -195,6 +199,7 @@ footer {
 }
 
 @media (max-width: 440px) {
+
   .card {
     margin-top: 20%;
     width: 350px;
