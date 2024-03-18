@@ -171,6 +171,7 @@ footer {
     margin-top: 20%; /* Sesuaikan margin-top agar konten tidak terlalu dekat dengan header */
     width: 400px;
     height: auto;
+    margin-bottom: 30%;
   }
   .card::before {
     width: 400px;
