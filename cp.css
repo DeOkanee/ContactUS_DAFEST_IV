@@ -47,7 +47,21 @@
 .contact-link:hover {
     background-color: #2980b9;
 }
+@media (max-width: 600px){
+    .contact-box {
+        width: 100%;
+    }
+    .contact h1{
+        text-align: center;
+        font-size: 18px;
+        margin-top: 10px;
 
+    }
+    .contact-box {
+        width: 80%;
+        padding: 18px;
+    }
+}
 @media (max-width: 440px) {
     .contact-box {
         width: 100%;
