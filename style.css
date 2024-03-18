@@ -171,11 +171,11 @@ header {
 
     .card{
         margin-top: 20%;
-        width: 450px;
+        width: 400px;
         height: auto;
     }
     .card::before{
-        width: 450px;
+        width: 400px;
         height: 100px;
     }
     footer{
