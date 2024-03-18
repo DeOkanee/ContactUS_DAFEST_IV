@@ -209,6 +209,9 @@ footer {
     width: 350px;
     height: 100px;
   }
+  .card-info span{
+    font-size: 20px;
+  }
   .logo-left img,
   .logo-right img {
     width: 40px; /* Sesuaikan ukuran logo */
