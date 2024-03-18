@@ -119,9 +119,6 @@ header {
     width: 100%;
     bottom: 0;
     left: 0;
-    position: fixed; /* Tambahkan ini */
-    z-index: 3; /* Tambahkan ini */
-    position: relative;
   }
   
   
@@ -178,10 +175,7 @@ header {
         width: 400px;
         height: 100px;
     }
-    footer{
-        position: relative;
 
-      }
       .bawah {
         flex-direction: column;
         text-align: center;
